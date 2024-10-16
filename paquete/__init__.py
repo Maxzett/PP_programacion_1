@@ -1,0 +1,1 @@
+from paquete.funciones import calcular_total_por_fila
